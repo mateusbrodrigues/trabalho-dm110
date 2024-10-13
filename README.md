@@ -31,7 +31,7 @@ No diretório `bin` do Wildfly, execute:
 
 ### 2. Configurar o Banco de Dados
 
-Abra o arquivo hsqldb-2.7.3.jar e roda o script da pasta `docs` 
+Abra o arquivo hsqldb-2.7.3.jar e rodar o script da pasta `docs` 
 
 ### 3. Adicionar o Módulo do HSQLDB ao Wildfly
 
