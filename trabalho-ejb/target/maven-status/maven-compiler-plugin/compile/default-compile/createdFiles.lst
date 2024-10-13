@@ -1,0 +1,5 @@
+br\inatel\dm110\ejb\entities\Customer.class
+br\inatel\dm110\ejb\mdb\AuditMDB.class
+br\inatel\dm110\ejb\beans\CustomerServiceBean.class
+br\inatel\dm110\ejb\entities\Auditing.class
+br\inatel\dm110\ejb\beans\AuditServiceBean.class
