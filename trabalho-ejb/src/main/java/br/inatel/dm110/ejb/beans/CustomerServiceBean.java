@@ -35,11 +35,4 @@ public class CustomerServiceBean {
         auditService.registerAudit(customer.getCpf(), "update"); 
     }
 
-    public void deleteCustomer(String cpf) {
-        Customer customer = getCustomer(cpf);
-        if (customer != null) {
-            em.remove(customer);
-            auditService.registerAudit(cpf, "delete");  
-        }
-    }
 }
